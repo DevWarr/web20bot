@@ -1,0 +1,19 @@
+{
+  "name": "web20bot",
+  "version": "0.1.0",
+  "description": "A basic bot that can listen and respond to some key messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevWarr/web20bot.git"
+  },
+  "author": "Devin Warrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevWarr/web20bot/issues"
+  },
+  "homepage": "https://github.com/DevWarr/web20bot#readme"
+}
